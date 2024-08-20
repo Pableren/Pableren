@@ -1,6 +1,13 @@
 ## Bienvenido al repositorio de Pablo Chamena.
 
+Hola, soy Pablo Chamena, un estudiante de informatica y Data Scientist Jr. En este repositorio encontraras todos los temas y proyectos que me parecieron importante descatacar. Siempre me ha gustado la tecnologia y todo lo relacionado a como funciona logicamente.
+
+Cualquier apartado que usted considere oportuno mejorar o cambiar, mismo puede forkear el repo para sugerir algun punto de mejora.
+
 ### Datos de contacto
+
+Autor: Pablo Chamena
+Linkedin: www.linkedin.com/in/pablo-chamena-8814bb211
 
 <!--
 **Pableren/Pableren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
